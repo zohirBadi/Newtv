@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/dz.xml"
+
+# 🇩🇿 ALGÉRIE
+#EXTINF:-1 tvg-id="ENTV.dz" group-title="🇩🇿 Algérie",ENTV / Programme National
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" group-title="🇩🇿 Algérie",Canal Algérie
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-id="AlgerieTV3.dz" group-title="🇩🇿 Algérie",A3
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AlgerieTV4.dz" group-title="🇩🇿 Algérie",TV4 Tamazight
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:-1 tvg-id="AlgerieTV5.dz" group-title="🇩🇿 Algérie",TV5 Coran
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:-1 tvg-id="AlgerieTV6.dz" group-title="🇩🇿 Algérie",TV6
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7ELMAARIFA.dz" group-title="🇩🇿 Algérie",TV7 El Maârifa
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+#EXTINF:-1 tvg-id="TV8EDHAKIRA.dz" group-title="🇩🇿 Algérie",TV8 Edhakira
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukNews.dz" group-title="🇩🇿 Algérie",Echorouk News
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukTV.dz" group-title="🇩🇿 Algérie",Echorouk TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="ELBILAD.dz" group-title="🇩🇿 Algérie",El Bilad
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:-1 tvg-id="ElDjazairiaOne.dz" group-title="🇩🇿 Algérie",El Djazairia
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="ELHAYATTV.dz" group-title="🇩🇿 Algérie",El Hayat
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-id="EnnaharTV.dz" group-title="🇩🇿 Algérie",Ennahar TV
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="samiratv.dz" group-title="🇩🇿 Algérie",Samira TV
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+
+# 🇫🇷 FRANCE — TNT
+#EXTINF:-1 tvg-id="TF1.fr" group-title="🇫🇷 France TNT",TF1
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 tvg-id="France2.fr" group-title="🇫🇷 France TNT",France 2
+http://livetv.ktv.zone/104/play.m3u8
+#EXTINF:-1 tvg-id="France3.fr" group-title="🇫🇷 France TNT",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+#EXTINF:-1 tvg-id="France4.fr" group-title="🇫🇷 France TNT",France 4
+http://176.65.146.100:8047/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="France5.fr" group-title="🇫🇷 France TNT",France 5
+http://145.239.5.177/305/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" group-title="🇫🇷 France TNT",TMC
+http://151.80.18.177:86/TMC/index.m3u8
+#EXTINF:-1 tvg-id="TFX.fr" group-title="🇫🇷 France TNT",TFX
+http://145.239.5.177/315/index.m3u8
+#EXTINF:-1 tvg-id="M6.fr" group-title="🇫🇷 France TNT",M6
+http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="W9.fr" group-title="🇫🇷 France TNT",W9
+http://145.239.5.177/331a/index.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" group-title="🇫🇷 France TNT",CStar
+http://145.239.5.177/361/index.m3u8
+#EXTINF:-1 tvg-id="NRJ12.fr" group-title="🇫🇷 France TNT",NRJ12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:-1 tvg-id="CNews.fr" group-title="🇫🇷 France TNT",CNEWS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" group-title="🇫🇷 France TNT",BFM TV
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="🇫🇷 France TNT",RMC Découverte
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" group-title="🇫🇷 France TNT",6ter
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" group-title="🇫🇷 France TNT",Gulli
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext&scheme=https
+#EXTINF:-1 tvg-id="arte.fr" group-title="🇫🇷 France TNT",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="France24French.fr" group-title="🇫🇷 France",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="AfricanewsFrench.fr" group-title="🇫🇷 France",Africanews Français
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+# 🇪🇸 ESPAGNE — TDT
+#EXTINF:-1 tvg-id="La1.es" group-title="🇪🇸 Espagne TDT",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La2.es" group-title="🇪🇸 Espagne TDT",La 2
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" group-title="🇪🇸 Espagne TDT",24 Horas
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+#EXTINF:-1 tvg-id="Clan.es" group-title="🇪🇸 Espagne TDT",Clan
+https://rtvelivestream.akamaized.net/clan_dvr.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" group-title="🇪🇸 Espagne TDT",Teledeporte
+https://rtvelivestream.akamaized.net/teledeporte_dvr.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" group-title="🇪🇸 Espagne TDT",Antena 3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es" group-title="🇪🇸 Espagne TDT",Cuatro
+https://livestartover.atresmedia.com/cuatro/master.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es" group-title="🇪🇸 Espagne TDT",Telecinco
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es" group-title="🇪🇸 Espagne TDT",laSexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+#EXTINF:-1 tvg-id="Neox.es" group-title="🇪🇸 Espagne TDT",Neox
+https://livestartover.atresmedia.com/geoneox/master.m3u8
+#EXTINF:-1 tvg-id="Nova.es" group-title="🇪🇸 Espagne TDT",Nova
+https://livestartover.atresmedia.com/geonova/master.m3u8
+#EXTINF:-1 tvg-id="Mega.es" group-title="🇪🇸 Espagne TDT",Mega
+https://livestartover.atresmedia.com/mega/master.m3u8
+
+# 🌙 ARABE — chaînes gratuites
+#EXTINF:-1 tvg-id="AlArabiya.ae" group-title="🌙 Arabe",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" group-title="🌙 Arabe",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" group-title="🌙 Arabe",Al Arabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" group-title="🌙 Arabe",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" group-title="🌙 Arabe",Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWousta.ae" group-title="🌙 Arabe",Al Wousta
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlYaum.ae" group-title="🌙 Arabe",Al Yaum
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
